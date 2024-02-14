@@ -1,4 +1,3 @@
-﻿
 
 Console.WriteLine("IELTS score average FOR academic");
 
