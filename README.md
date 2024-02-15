@@ -6,7 +6,7 @@
 
   > Barcha **IELTS** ballari 0 dan 9 gacha bolgan sistemada xisoblanadi. Imtixon topshiruvchi 5 ball xam, 9 ball xam olishi mumkin. Bu sistema to`rt yonalish boyicha (Listening, Reading, Writing, Speaking) olingan umumiy ballarni xisoblaydi. Imtixon topshiruvchining xar bir yonalishdan olgan ballari qoshilib umumiy **IELTS** natijasi chiqariladi. Misol tariqasida quyidagi jadvalni korishingiz mumkin.
 
-| Listening | Reading | Writing | Speaking | Oveall |
+| Listening | Reading | Writing | Speaking | Overall |
 |:-:|:-:|:-:|:-:|-:| 
 | 9  |  8  |  8  |  8  | 8.5  |
 | | | | | 
