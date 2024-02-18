@@ -39,12 +39,15 @@
   *ushbu dastur yordamida IELTS dan olgan ballaringizni xisoblab olishingiz mumkin* 
 
   # Birinchi qism
-
   ![alt text](image.png)
 
   # Ikkinchi qism
-
   ![alt text](image-1.png)
+
+  # Natija
+  ![IELTS](https://github.com/Ahmadxon1990/IELTS-score/assets/153198605/04ef1d93-33db-44e0-b879-d3c8481ad121)
+
+  
 
 
 
